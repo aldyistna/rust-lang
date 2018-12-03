@@ -1,6 +1,6 @@
 macro_rules! hello {
     () => (
-        println!("Hello World !!!", );
+        println!("Hello World !!!" );
     );
 }
 
